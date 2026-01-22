@@ -1,0 +1,73 @@
+.ilove {
+   height: 80px;
+   width: 60%;
+   background-color: darkgray;
+   margin: auto;
+   margin-bottom: 15px;
+   padding-top: 15px;
+   padding-left: 30px;
+}
+
+.myself {
+   height: 30px;
+   background-color: green;
+}
+
+.because {
+   height: 30px;
+   background-color: rebeccapurple;
+}
+
+.godimage {
+   height: 30px;
+   background-color: red;
+}
+
+.jesus {
+   width: 60%;
+   height: 200px;
+   background-color: darkgray;
+   margin: auto;
+   margin-top: 15px;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+.love {
+   width: 60%;
+   height: 140px;
+   background-color: darkgrey;
+   margin: auto;
+   margin-top: 15px;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+.email {
+   margin: bottom 10px;
+}
+
+.subject {
+   margin-bottom: 10px;
+}
+
+.name {
+   margin-bottom: 10px;
+}
+
+.submit {
+   width: 30%;
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.box4 {
+   width: 60%;
+   height: 140px;
+   background-color: darkgrey;
+   margin: auto;
+   margin-bottom: 10px;
+   text-align: center;
+   margin-top: 15px;
+
+}

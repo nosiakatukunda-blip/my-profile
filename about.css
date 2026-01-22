@@ -1,0 +1,70 @@
+.jesus {
+    width: 60%;
+    height: 40px;
+    background-color: darkgray;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 30px;
+    background-color: blue;
+}
+
+.love {
+
+    width: 60%;
+    height: 500px;
+    background-color: darkgray;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 30px;
+
+}
+
+.me {
+
+    width: 60%;
+    height: 150px;
+    background-color: red;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 30px;
+
+}
+
+.heartedly {
+    width: 60%;
+    height: 40px;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 30px;
+    background-color: blueviolet;
+
+}
+
+.god {
+    width: 30%;
+    color: green;
+    font-size: x-large;
+    float: left;
+    background-color: aqua;
+}
+
+.fearing {
+    width: 30%;
+    color: red;
+    font-size: x-large;
+    float: right;
+    background-color: brown;
+}
+.amen{
+     height: 300px;
+    width: 96%;
+    background-color: goldenrod;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
